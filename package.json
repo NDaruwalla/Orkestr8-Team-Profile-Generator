@@ -1,0 +1,25 @@
+{
+  "name": "orkestr8-team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator - Orkestr8",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NDaruwalla/Orkestr8-Team-Profile-Generator.git"
+  },
+  "author": "Nicole Daruwalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NDaruwalla/Orkestr8-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/NDaruwalla/Orkestr8-Team-Profile-Generator#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
