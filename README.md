@@ -20,7 +20,6 @@
   - [Installation](#installation)
   - [Use](#use)
   - [License](#license)
-  - [Contributors](#contributors)
   - [References](#references)
   - [Tests](#tests)
   - [Questions](#questions)
@@ -54,7 +53,7 @@
   ```
 
   ## Tools
-  The tools used to create this application include: Visual Studio Code, Node.js, JavaScript, GitHub, Git Bash
+  The tools used to create this application include: HTML, CSS, JavaScript, Bootstrap, Node.js, Inquirer, Jest, Visual Studio Code, GitHub, Git Bash, Screencastify (Screen Video Recorder). 
 
   ## Installation
   Clone repository, npm install, npm test, npm start, answer question prompts, open html to view the team profile generated.
@@ -69,8 +68,7 @@
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  Click badge for license description.
   
-  ## Contributors
-  Nicole Daruwalla with assistance from Burzin Daruwalla
+  
 
   ## References
   The following references were used to create this application: 
