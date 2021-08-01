@@ -1,4 +1,6 @@
 # Orkestr8 Team Profile Generator
+![Icon Name](./chart.png)
+<!-- image credit: this image is from icons8-->
 
   ## Description
   The Orkestr8 Team Profile Generator is an application that creates an HTML page of a manager's team with Engineer and Intern roles. The application leads the user through a series of questions. The responses to the questions are used to auto populate the HTML file.
@@ -55,7 +57,7 @@
   The tools used to create this application include: Visual Studio Code, Node.js, JavaScript, GitHub, Git Bash
 
   ## Installation
-  Install Node.js, npm init, npm install inquirer, Jest.
+  Clone repository, npm install, npm test, npm start, answer question prompts, open html to view the team profile generated.
   [Jest package](https://www.npmjs.com/package/jest) for a suite of unit tests.
   [Inquirer package](https://www.npmjs.com/package/inquirer)
 
