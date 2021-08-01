@@ -68,7 +68,7 @@
       index.js			// runs the application
       ```
   ### Classes
-      The application must include `Employee`, `Manager`, `Engineer`, and `Intern` classes. The tests for these classes (in the `_tests_` directory). All tests passed.
+      This application includes `Employee`, `Manager`, `Engineer`, and `Intern` classes. The tests for these classes (located in the `_tests_` directory) all passed.
 
       The first class is an `Employee` parent class with the following properties and methods:
 
@@ -80,20 +80,20 @@
       * `getEmail()`
       * `getRole()`&mdash;returns `'Employee'`
 
-      The other three classes will extend `Employee`.
+      The other three classes extend `Employee`.
 
-      In addition to `Employee`'s properties and methods, `Manager` will also have the following:
+      In addition to `Employee`'s properties and methods, `Manager` has the following:
 
       * `officeNumber`
       * `getRole()`&mdash;overridden to return `'Manager'`
 
-      In addition to `Employee`'s properties and methods, `Engineer` will also have the following:
+      In addition to `Employee`'s properties and methods, `Engineer` has the following:
 
       * `github`&mdash;GitHub username
       * `getGithub()`
       * `getRole()`&mdash;overridden to return `'Engineer'`
 
-      In addition to `Employee`'s properties and methods, `Intern` will also have the following:
+      In addition to `Employee`'s properties and methods, `Intern` has the following:
 
       * `school`
       * `getSchool()`
