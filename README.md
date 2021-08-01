@@ -78,26 +78,26 @@
       * `getName()`
       * `getId()`
       * `getEmail()`
-      * `getRole()`&mdash;returns `'Employee'`
+      * `getRole()`returns `'Employee'`
 
       The other three classes extend `Employee`.
 
       In addition to `Employee`'s properties and methods, `Manager` has the following:
 
       * `officeNumber`
-      * `getRole()`&mdash;overridden to return `'Manager'`
+      * `getRole()` overridden to return `'Manager'`
 
       In addition to `Employee`'s properties and methods, `Engineer` has the following:
 
-      * `github`&mdash;GitHub username
+      * `github` GitHub username
       * `getGithub()`
-      * `getRole()`&mdash;overridden to return `'Engineer'`
+      * `getRole()` overridden to return `'Engineer'`
 
       In addition to `Employee`'s properties and methods, `Intern` has the following:
 
       * `school`
       * `getSchool()`
-      * `getRole()`&mdash;overridden to return `'Intern'`
+      * `getRole()` overridden to return `'Intern'`
 
 
   ## Tools
