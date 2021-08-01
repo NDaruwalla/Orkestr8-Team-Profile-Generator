@@ -5,6 +5,7 @@
 const Employee = require('../lib/Employee');
 
 // Create the employee object and use test data: Jane Doe for employee name, 777 for employee ID, and jdoe@email.com for test email
+
 test('This test creates the employee object and evaluates data type for name, id, email.', () => {
     const employee = new Employee('Jane Doe', 777, 'jdoe@email.com');
 
