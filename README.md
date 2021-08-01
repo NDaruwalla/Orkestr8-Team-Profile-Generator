@@ -1,5 +1,5 @@
 # Orkestr8 Team Profile Generator
-![Icon Name](dist/img/chart.png)
+![Icon Name](./chart.png)
 <!-- image credit: this image is from icons8-->
 
   ## Description
@@ -10,7 +10,7 @@
   
 
   ### Screen Capture
-  ![Orkestr8 Team Profile Generator](dist/img/orkestr8.jpg)
+  ![Orkestr8 Team Profile Generator](./orkestr8.jpg)
 
 
   ## Table of Contents
