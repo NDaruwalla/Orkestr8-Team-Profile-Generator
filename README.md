@@ -60,6 +60,9 @@
         Intern.test.js
         Manager.test.js
       dist/               // rendered output (HTML) and CSS style sheet
+        img/              // images used in the application
+        index.html
+        style.css
       lib/				// classes
       src/				// template helper code
       index.js			// runs the application
