@@ -7,6 +7,7 @@
 
   ### Link to Full Video
   [Full Screencast Video on YouTube](https://youtu.be/HERE)
+  
 
   ### Abbreviated Gif
   ![Orkestr8 Team Profile Generator](./img/orkestr8.jpg)
@@ -112,6 +113,7 @@
   ## Use
   This application enables managers to create a complete team profile for various roles (manager, intern, engineer).
 
+
   ## Future Considerations
   In the future I will add functionality to validate the format of user data input. For example, I will use a regex to validate the email address. This functionality was not a requirement of the assignment.  
 
@@ -122,7 +124,6 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  Click badge for license description.
   
   
-
   ## References
   The following references were used to create this application: 
   https://www.w3schools.com/nodejs/nodejs_filesystem.asp
