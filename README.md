@@ -53,15 +53,15 @@
   ```
 
   ## Tools
-  The tools used to create this application include: HTML, CSS, JavaScript, Bootstrap, Node.js, Inquirer, Jest, Visual Studio Code, GitHub, Git Bash, Screencastify (Screen Video Recorder). 
+  The tools used to create this application include: HTML, CSS, JavaScript, Bootstrap, Node.js, [Inquirer package](https://www.npmjs.com/package/inquirer) for question prompts, [Jest package](https://www.npmjs.com/package/jest) for a suite of unit tests, Visual Studio Code, GitHub, Git Bash, Screencastify (Screen Video Recorder). 
 
   ## Installation
   Clone repository, npm install, npm test, npm start, answer question prompts, open html to view the team profile generated.
-  [Jest package](https://www.npmjs.com/package/jest) for a suite of unit tests.
-  [Inquirer package](https://www.npmjs.com/package/inquirer)
+
 
   ## Use
-  Use this application to create a complete team profile.
+  This application enables managers to create a complete team profile for various roles (manager, intern, engineer).
+
 
   ## License
   MIT
