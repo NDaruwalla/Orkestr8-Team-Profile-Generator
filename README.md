@@ -6,16 +6,16 @@
   The Orkestr8 Team Profile Generator is an application that creates an HTML page of a manager's team with Engineer and Intern roles. The application leads the user through a series of questions. The responses to the questions are used to auto populate the HTML file.
 
   ### Link to Full Video
-  [Full Screencast Video on YouTube](https://youtu.be/HERE)
+  [Full Screencast Video on YouTube](https://youtu.be/ftZpPTvN0t0)
   
 
-  ### Abbreviated Gif
-  ![Orkestr8 Team Profile Generator](./img/orkestr8.jpg)
+  ### Screen Capture
+  ![Orkestr8 Team Profile Generator](./dist/img/orkestr8.jpg)
 
 
   ## Table of Contents
   - [Description](#description)
-  - [User Story/Stories](#story)
+  - [User Story](#story)
   - [Acceptance Criteria](#criteria)
   - [Development Overview](#development-overview)
   - [Tools](#tools)
@@ -27,7 +27,7 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
-  ## User Story/Stories
+  ## User Story
    ```md
   AS A manager
   I WANT to generate a webpage that displays my team's basic info
