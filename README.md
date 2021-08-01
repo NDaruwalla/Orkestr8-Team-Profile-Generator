@@ -1,5 +1,5 @@
 # Orkestr8 Team Profile Generator
-![Icon Name](./chart.png)
+![Icon Name](./dist/img/chart.png)
 <!-- image credit: this image is from icons8-->
 
   ## Description
@@ -51,6 +51,19 @@
   WHEN I decide to finish building my team
   THEN I exit the application, and the HTML is generated
   ```
+  ## Development Overview
+  ### File Structure
+        ```md
+      __tests__/			// jest tests
+        Employee.test.js
+        Engineer.test.js
+        Intern.test.js
+        Manager.test.js
+      dist/               // rendered output (HTML) and CSS style sheet
+      lib/				// classes
+      src/				// template helper code
+      index.js			// runs the application
+      ```
 
   ## Tools
   The tools used to create this application include: HTML, CSS, JavaScript, Bootstrap, Node.js, [Inquirer package](https://www.npmjs.com/package/inquirer) for question prompts, [Jest package](https://www.npmjs.com/package/jest) for a suite of unit tests, Visual Studio Code, GitHub, Git Bash, Screencastify (Screen Video Recorder). 
