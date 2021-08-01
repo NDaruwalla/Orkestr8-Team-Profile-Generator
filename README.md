@@ -64,6 +64,38 @@
       src/				// template helper code
       index.js			// runs the application
       ```
+  ### Classes
+      The application must include `Employee`, `Manager`, `Engineer`, and `Intern` classes. The tests for these classes (in the `_tests_` directory). All tests passed.
+
+      The first class is an `Employee` parent class with the following properties and methods:
+
+      * `name`
+      * `id`
+      * `email`
+      * `getName()`
+      * `getId()`
+      * `getEmail()`
+      * `getRole()`&mdash;returns `'Employee'`
+
+      The other three classes will extend `Employee`.
+
+      In addition to `Employee`'s properties and methods, `Manager` will also have the following:
+
+      * `officeNumber`
+      * `getRole()`&mdash;overridden to return `'Manager'`
+
+      In addition to `Employee`'s properties and methods, `Engineer` will also have the following:
+
+      * `github`&mdash;GitHub username
+      * `getGithub()`
+      * `getRole()`&mdash;overridden to return `'Engineer'`
+
+      In addition to `Employee`'s properties and methods, `Intern` will also have the following:
+
+      * `school`
+      * `getSchool()`
+      * `getRole()`&mdash;overridden to return `'Intern'`
+
 
   ## Tools
   The tools used to create this application include: HTML, CSS, JavaScript, Bootstrap, Node.js, [Inquirer package](https://www.npmjs.com/package/inquirer) for question prompts, [Jest package](https://www.npmjs.com/package/jest) for a suite of unit tests, Visual Studio Code, GitHub, Git Bash, Screencastify (Screen Video Recorder). 
@@ -74,6 +106,9 @@
 
   ## Use
   This application enables managers to create a complete team profile for various roles (manager, intern, engineer).
+
+  ## Future Considerations
+  In the future I will add functionality to validate the format of user data input. For example, I will use a regex to validate the email address. This functionality was not a requirement of the assignment.  
 
 
   ## License
