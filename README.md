@@ -21,7 +21,6 @@
   - [Tools](#tools)
   - [Installation](#installation)
   - [Use](#use)
-  - [Future Considerations](#future-considerations)
   - [License](#license)
   - [References](#references)
   - [Tests](#tests)
@@ -112,11 +111,6 @@
 
   ## Use
   This application enables managers to create a complete team profile for various roles (manager, intern, engineer).
-
-
-  ## Future Considerations
-  In the future I will add functionality to validate the format of user data input. For example, I will use a regex to validate the email address. This functionality was not a requirement of the assignment.  
-
 
   ## License
   MIT
