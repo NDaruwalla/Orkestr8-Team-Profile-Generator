@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: none;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+header {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    background-color: none;
+    }
+
+body {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    /* Nicole's customization - image from pexels.com, no attribution required */
+    background-image: url(./img/background-2.jpg);
+    /* height: 1200px;  */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;  /* Resize the background image to cover the entire container */
+}
+
+
+h1.title {
+color: rgb(144, 5, 5);
+font-size: 4rem;
+}
+
+.quote {
+    color: rgb(144, 5, 5);
+    font-size: 2rem;
+    padding-bottom: 2%;
+    }
+
+.card {
+    margin: .5%;
+    }
+
+.card-title {
+    color: rgb(20, 2, 61);
+    font-size: 1.5rem;
+    padding-bottom: 2%;
+    }
+
+h3.card-title {
+    color: rgb(144, 5, 5);
+    font-size: 1.25rem;
+    padding-bottom: 0%;
+    }
+
+.card-body {
+    background-color: rgb(227, 231, 236);
+    }
+
+.icon {
+    background-color: rgb(161, 154, 150);
+    text-align: center;
+    padding-top: 5%;
+}
